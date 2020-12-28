@@ -2,19 +2,19 @@
   {
     "id": 1,
     "title": "Creative Team",
-    "text": "We have creative team, they always ready to help you.",
+    "text": "Memiliki banyak team kreatif yang siap membantu",
     "imgSrc": "feature/01.png"
   },
   {
     "id": 2,
     "title": "Best Service",
-    "text": "We have creative team, they always ready to help you.",
+    "text": "Pelayanan yang berkualitas merupakan dambaan klien",
     "imgSrc": "feature/02.png"
   },
   {
     "id": 3,
     "title": "Online Support",
-    "text": "We have creative team, they always ready to help you.",
+    "text": "Konsultasi layanan calon klien gratis secara online",
     "imgSrc": "feature/03.png"
   }
 ]
