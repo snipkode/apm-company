@@ -54,8 +54,8 @@ function Footer() {
                     <div className="col-md-4 col-lg-3">
                         <Widget title="Contact Us">
                             <address>
-                                Jl. Banjarwaru RT 03/11, Desa Sindangbarang, Kecamatan Karangpucung<br/>
-                                Kab. Cilacap - Jawa Tengah<br/>
+                                Jl. Banjarwaru RT 03/11, Desa Sindangbarang, Kecamatan Karangpucung.<br/>
+                                Kode Pos 53255, Kab. Cilacap - Jawa Tengah<br/>
                                 (+68) 120034509
                             </address>
                         </Widget>

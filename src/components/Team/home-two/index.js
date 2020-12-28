@@ -14,8 +14,8 @@ const Team = () => {
                         <SectionTitle
                             variant="light"
                             title="Creative Team"
-                            heading="We have great <br />creative team"
-                            text="<strong>Businex</strong> always try to provide the best Business Solutions for Clients to grow up their Business sharp and smoothly. We voluptatem voluptas aspernatur aut odit fugit, quia consequuur magni dolores eos qui ratione."
+                            heading="Memiliki Team Kratif <br /> Berpengalaman"
+                            text="<strong>PT Arkana Putra Mandiri </strong> memiliki Team Work yang solid dan berpengalaman untuk siap bekerja sesuai deadline berdasarkan tugasnya masing-masing"
                         />
                     </div>
                 </div>
