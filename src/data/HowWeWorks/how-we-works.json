@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "title": "Case Strategy",
-    "text": "voluptatum deleniti atqued corrupti cepturi sinte aeted psamtem quia voluptas sit aut odit aut fugit.",
+    "title": "Mengetahui Solusi",
+    "text": "Mengenali studi kasus permintaan terkait masalah atau peningkatan layanan kinerja",
     "icon": "service/icon/strategy.png"
   },
   {
     "id": 2,
-    "title": "Track Record",
-    "text": "voluptatum deleniti atqued corrupti cepturi sinte aeted psamtem quia voluptas sit aut odit aut fugit.",
+    "title": "Draft Permintaan",
+    "text": "Pembuatan Draft Bisnis Requirement Dokument (BRD) untuk memprediksikan kapan project akan selesai",
     "icon": "service/icon/track-record.png"
   },
   {
     "id": 3,
     "title": "Research & Investigation",
-    "text": "voluptatum deleniti atqued corrupti cepturi sinte aeted psamtem quia voluptas sit aut odit aut fugit.",
+    "text": "Pembuatan Prototype, Build, Testing, dan Deployment",
     "icon": "service/icon/research.png"
   },
   {
     "id": 4,
-    "title": "Case Analysis",
-    "text": "voluptatum deleniti atqued corrupti cepturi sinte aeted psamtem quia voluptas sit aut odit aut fugit.",
+    "title": "Maintenance",
+    "text": "Pelaporan hasil dan analisis keamanan data serta pengembangan pengalaman pengguna sesuai batas waktu yang telah disepakati",
     "icon": "service/icon/analysis.png"
   }
 ]

@@ -46,10 +46,9 @@ const ServiceContentWrap = ({service,totalService,prevService,nextService}) => {
                     </div>
 
                     <div className="how-we-works-wrap mt-50 mt-sm-35">
-                        <h4>How we work</h4>
+                        <h4>Cara Kita Bekerja</h4>
                         <Text styles={{marginBottom:20}}>
-                            voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt
-                            ut labore et dolore magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum
+                            Adapun beberapa tahapan penting yang biasa kami lakukan dalam pengerjaan project skala besar maupun kecil sebagai berikut:
                         </Text>
 
                         <div className="how-we-works-content service-details-page">
