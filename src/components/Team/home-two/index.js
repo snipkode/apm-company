@@ -14,7 +14,7 @@ const Team = () => {
                         <SectionTitle
                             variant="light"
                             title="Creative Team"
-                            heading="Memiliki Team Kratif <br /> Berpengalaman"
+                            heading="Memiliki Team Kreatif <br /> Berpengalaman"
                             text="<strong>PT Arkana Putra Mandiri </strong> memiliki Team Work yang solid dan berpengalaman untuk siap bekerja sesuai deadline berdasarkan tugasnya masing-masing"
                         />
                     </div>
