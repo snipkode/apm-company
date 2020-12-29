@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://arkanaputra.com/precache-manifest.ab42191f76d6e75b2c7a71b5cca679e3.js"
+  "https://arkanaputra.com/precache-manifest.b892ae3b4ec741a300ae3094ccdfb467.js"
 );
 
 self.addEventListener('message', (event) => {
