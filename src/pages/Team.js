@@ -18,14 +18,14 @@ const PageTeam = () => {
             <Header/>
             <PageHeader
                 bgImg={require('../assets/img/page-header.jpg')}
-                title="KNOW ABOUT BUSINEX THE ULTIMATE TEAM"
-                content="Businex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly."
+                title="KNOW ABOUT THE ULTIMATE SOLID TEAM"
+                content="Kami berkomitmen untuk menjaga kepercayaan dan saling menguntungkan dalam berbisnis"
             />
             <About
                 title={'Our Team'}
                 heading="Meet Our <br/> Expert Member"
                 thumb={ServiceThumb}
-                content="<b>Businex</b> always try to provide the best Business Solutions for Clinets to grow up their Business very sharply and smoothly. We voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+                content="<b>Kami</b> senang bertemu secara langsung jika anda memiliki rencana skala besar untuk mendapatkan pemahaman dan solusi yang lebih baik"
             />
             <TeamMember/>
             <BrandLogo/>

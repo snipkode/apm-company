@@ -1,98 +1,57 @@
 [
   {
     "id": 1,
-    "title": "Creative Ideas",
-    "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
+    "title": "Business Training",
+    "shortDesc": "Untuk para pebisnis bagaimana teknik mengembangkan dan meningkatkan omzet bisnis Go-Digital.",
     "thumb": "service/01.jpg",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",
       "service/details/03.jpg"
     ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "aboutServiceDesc": "<p>Kami memberikan pelatihan bisnis untuk para pengusaha dalam upaya meningkatkan omzet melalui media online dan membantu efektifitas layanan bisnis.</p><p>Adapun beberapa fasilitas yang akan didapatkan:",
     "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+      "Membantu proses perizinan gratis khusus untuk Usaha Mikro Kecil (UMK)",
+      "Pembuatan platform aplikasi layanan bisnis"
     ]
   },
   {
     "id": 2,
     "title": "Digital Solutions",
-    "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/02.jpg",
-    "previewImages": [
-      "service/details/01.jpg",
-      "service/details/02.jpg",
-      "service/details/03.jpg"
-    ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
-    "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
-    ]
-  },
-  {
-    "id": 3,
-    "title": "Brand & Communication",
-    "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
+    "shortDesc": "Menerima Jasa Pembuatan Platform Website, Perancangan Aplikasi Android & IOS, dan Jasa Digital lainnya.",
     "thumb": "service/03.jpg",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",
       "service/details/03.jpg"
     ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "aboutServiceDesc" : "<p>Kami menerima jasa pembuatan platform layanan bisnis anda dengan cepat dan berkualitas berdasarkan permintaan (Requirement) tepat waktu.</p> <p>Layanan ini merupakan layanan utama kami dalam upaya membantu memecahkan solusi kinerja yang kurang efektif seperti rumitnya management data pelanggan anda, management dokumen resmi, dan lain-lain.</p><p>Adapun fasilitas yang akan didapatkan:</p>",
     "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+      "Maintenance Platform Terkait Keamanan dan Perbaikan User Interface",
+      "Promosi platform (Bersifat Optional)",
+      "Integrasi Kemampuan Offline (Offline Capabilities) untuk backup data secara otomatis"
     ]
   },
   {
-    "id": 4,
-    "title": "Creative Strategy",
-    "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/04.jpg",
-    "previewImages": [
-      "service/details/01.jpg",
-      "service/details/02.jpg",
-      "service/details/03.jpg"
-    ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
-    "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
-    ]
-  },
-  {
-    "id": 5,
-    "title": "Marketing Policy",
-    "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
+    "id": 3,
+    "title": "Marketing Solutions",
+    "shortDesc": "Solusi terbaik mempromosikan bisnis anda untuk menjangkau target market yang lebih luas dan tertarget secara spesifik.",
     "thumb": "service/05.jpg",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",
       "service/details/03.jpg"
     ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "aboutServiceDesc":"<p>Kami membantu mengurus segala hal yang berkaitan dengan promosi produk dan layanan bisnis anda seperti pembuatan platform website resmi, promosi media sosial, design banner, design produk, copywriting dan lain-lain.</p><p>Adapun beberapa fasilitas secara umum yang akan didapatkan:</p>",
     "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
-    ]
-  },
-  {
-    "id": 6,
-    "title": "Campaign & PR",
-    "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/06.jpg",
-    "previewImages": [
-      "service/details/03.jpg",
-      "service/details/01.jpg",
-      "service/details/02.jpg"
-    ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
-    "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+      "Pembuatan Website Company Profile",
+      "Pembuatan Design Logo Perusahaan",
+      "Pembuatan Akun Social Media",
+      "Pembuatan Design Promosi Produk",
+      "Pembuatan Template Design Utility berformat pdf, jpg, svg, dan psd",
+      "Pembuatan Video Promosi",
+      "Promosi Produk dan Layanan"
     ]
   }
+  
 ]

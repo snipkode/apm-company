@@ -21,13 +21,13 @@ const PageService = () => {
             <PageHeader
                 bgImg={require('../assets/img/page-header.jpg')}
                 title="OUR SERVICES"
-                content="Businex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly."
+                content="Meningkatkan kinerja layanan yang lebih efektif dan aman. Baik di sektor Industri Digital, Bisnis, dan Lembaga atau Instansi"
             />
             <PageAbout
                 title={'Our Services'}
-                heading="Provide best <br/> Business Solutions"
+                heading="Pembuatan <br/> Platform Digital Terbaik"
                 thumb={ServiceThumb}
-                content="<b>Businex</b> always try to provide the best Business Solutions for Clinets to grow up their Business very sharply and smoothly. We voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+                content="<b>Kami </b> selalu berupaya membantu mewujudkan platform digital yang aman dan berkualitas, khususnya kemanan database pribadi pengguna"
             />
             <Services classes="sm-top"/>
             <PricingTable/>

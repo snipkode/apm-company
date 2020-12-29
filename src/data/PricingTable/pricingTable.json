@@ -1,41 +1,41 @@
 [
   {
     "id": 1,
-    "planName": "Free",
+    "planName": "Custom Requests",
     "currencyType": "$",
-    "planPrice": "00",
+    "planPrice": "xxx",
     "subscribePlan": "mo",
     "planFeatures": [
+      "Pembuatan Website dan Aplikasi",
       "Branding strategy identity",
-      "Marketing campaign & PR",
-      "Website and app designing",
-      "Content development"
+      "Content development",
+      "Marketing Campaign & Promotion"
     ]
   },
   {
     "id": 2,
     "planName": "Small Business",
     "currencyType": "$",
-    "planPrice": "49",
+    "planPrice": "120",
     "subscribePlan": "mo",
     "planFeatures": [
-      "Content development",
+      "Pembuatan Website dan Aplikasi",
       "Branding strategy identity",
-      "Marketing campaign & PR",
-      "Website and app designing"
+      "Marketing Campaign & Promotion",
+      "Content Development"
     ]
   },
   {
     "id": 3,
     "planName": "Professional",
     "currencyType": "$",
-    "planPrice": "99",
+    "planPrice": "200",
     "subscribePlan": "mo",
     "planFeatures": [
-      "Website and app designing",
-      "Content development",
+      "Pembuatan Website dan Aplikasi",
+      "Content Development",
       "Branding strategy identity",
-      "Marketing campaign & PR"
+      "Marketing campaign & Promotion"
     ]
   }
 ]

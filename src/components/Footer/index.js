@@ -19,7 +19,7 @@ function Footer() {
                                 </Link>
 
                                 <Text>
-                                    Membantu dan Memberikan Pelayanan Terbaik Untuk Klien Merupakan Kebanggaan Kami.
+                                  Memberikan pelayanan terbaik dan menjaga keperyaan klien merupakan kewajiban kami.
                                 </Text>
 
                                 <Text classes="copyright-txt">
