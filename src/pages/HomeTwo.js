@@ -25,7 +25,7 @@ const HomeTwo = () => {
             <Features classes="sp-top"/>
             <Testimonial/>
             <Team/>
-            <Blog/>
+            {/*<Blog/>*/}
             <BrandLogo/>
             <Funfact/>
             <CallToAction/>
