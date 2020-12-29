@@ -1,10 +1,9 @@
 {
   "hosting": {
-    "site" : "arkanaputra",
     "public": "build",
     "ignore": [
       "firebase.json",
-      "**/.*"
+      "**/.*",
       "**/node_modules/**"
     ],
     "rewrites": [
