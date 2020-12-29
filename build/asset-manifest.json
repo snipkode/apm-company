@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://arkanaputra.com/static/css/main.17a20701.chunk.css",
-    "main.js": "https://arkanaputra.com/static/js/main.5bae12d0.chunk.js",
-    "main.js.map": "https://arkanaputra.com/static/js/main.5bae12d0.chunk.js.map",
+    "main.js": "https://arkanaputra.com/static/js/main.f49b817f.chunk.js",
+    "main.js.map": "https://arkanaputra.com/static/js/main.f49b817f.chunk.js.map",
     "runtime-main.js": "https://arkanaputra.com/static/js/runtime-main.e18579cd.js",
     "runtime-main.js.map": "https://arkanaputra.com/static/js/runtime-main.e18579cd.js.map",
     "static/css/2.724a2e2c.chunk.css": "https://arkanaputra.com/static/css/2.724a2e2c.chunk.css",
     "static/js/2.f0a30348.chunk.js": "https://arkanaputra.com/static/js/2.f0a30348.chunk.js",
     "static/js/2.f0a30348.chunk.js.map": "https://arkanaputra.com/static/js/2.f0a30348.chunk.js.map",
     "index.html": "https://arkanaputra.com/index.html",
-    "precache-manifest.49848335f4b1620c8615ff2393ba9a5c.js": "https://arkanaputra.com/precache-manifest.49848335f4b1620c8615ff2393ba9a5c.js",
+    "precache-manifest.a17378a2ecf4543a1c1b6e270d8783a2.js": "https://arkanaputra.com/precache-manifest.a17378a2ecf4543a1c1b6e270d8783a2.js",
     "service-worker.js": "https://arkanaputra.com/service-worker.js",
     "static/css/2.724a2e2c.chunk.css.map": "https://arkanaputra.com/static/css/2.724a2e2c.chunk.css.map",
     "static/css/main.17a20701.chunk.css.map": "https://arkanaputra.com/static/css/main.17a20701.chunk.css.map",
@@ -59,6 +59,6 @@
     "static/css/2.724a2e2c.chunk.css",
     "static/js/2.f0a30348.chunk.js",
     "static/css/main.17a20701.chunk.css",
-    "static/js/main.5bae12d0.chunk.js"
+    "static/js/main.f49b817f.chunk.js"
   ]
 }

@@ -27,15 +27,9 @@
     "megaMenu": false,
     "subMenu": false
   },
+ 
   {
     "id": 5,
-    "title": "Blog",
-    "link": "/blog",
-    "megaMenu": false,
-    "subMenu": false
-  },
-  {
-    "id": 6,
     "title": "Contact",
     "link": "/contact"
   }

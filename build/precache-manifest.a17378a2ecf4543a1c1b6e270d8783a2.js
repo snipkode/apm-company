@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec934f89c14b2fe6ed9a1eb83abc74d4",
+    "revision": "f7a68ae2419eb814768af66e3880a10f",
     "url": "https://arkanaputra.com/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://arkanaputra.com/static/css/2.724a2e2c.chunk.css"
   },
   {
-    "revision": "2ddd700f000a19d7f88f",
+    "revision": "840abe641395884efbd4",
     "url": "https://arkanaputra.com/static/css/main.17a20701.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://arkanaputra.com/static/js/2.f0a30348.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2ddd700f000a19d7f88f",
-    "url": "https://arkanaputra.com/static/js/main.5bae12d0.chunk.js"
+    "revision": "840abe641395884efbd4",
+    "url": "https://arkanaputra.com/static/js/main.f49b817f.chunk.js"
   },
   {
     "revision": "d95ef7702e148ffaee85",
