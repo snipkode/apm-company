@@ -8,14 +8,14 @@ function NavbarItem(props) {
             <li key={item.id}
                 className={item.subMenu || item.megaMenu ? 'has-submenu' : ''}
             >
-                <Link to={`${process.env.PUBLIC_URL + item.link}`}>{item.title}</Link>
+                <Link to={ item.link }>{item.title}</Link>
                 {(() => {
                     if(item.subMenu){
                         return(
                             <ul className="submenu-nav">
                                 {
                                     item.subMenu.map((subItem,index)=>{
-                                        return <li key={index}><Link to={`${process.env.PUBLIC_URL + subItem.link}`}>{subItem.title}</Link></li>
+                                        return <li key={index}><Link to={ subItem.link }>{subItem.title}</Link></li>
                                     })
                                 }
                             </ul>
@@ -31,7 +31,7 @@ function NavbarItem(props) {
                                             <ul>
                                                 {
                                                     megaItem.lists.map((listItem,idx)=>{
-                                                        return <li key={idx}><Link to={`${process.env.PUBLIC_URL + listItem.link}`}>{listItem.title}</Link></li>
+                                                        return <li key={idx}><Link to={ listItem.link }>{listItem.title}</Link></li>
                                                     })
                                                 }
                                             </ul>

@@ -23,20 +23,20 @@ const App = () => {
             <ScrollToTop>
                 <Switch>
       
-                    <Route exact path={`${process.env.PUBLIC_URL + '/'}`} component={Home}/>
-                    <Route exact path={`${process.env.PUBLIC_URL + '/services'}`} component={Service}/>
+                    <Route exact path={'/'} component={Home}/>
+                    <Route exact path={'/services'} component={Service}/>
 
-                    <Route path={`${process.env.PUBLIC_URL + '/service/:serviceID'}`} component={ServiceDetails}/>
+                    <Route path={'/service/:serviceID'} component={ServiceDetails}/>
                  
-                    <Route exact path={`${process.env.PUBLIC_URL + "/blog"}`}
+                    <Route exact path={"/blog"}
                            component={Blog}/>
 
-                    <Route path={`${process.env.PUBLIC_URL + "/blog/:blogID"}`} component={BlogDetailsPage}/>
-                    <Route exact path={`${process.env.PUBLIC_URL + "/team"}`} component={Team}/>
-                    <Route path={`${process.env.PUBLIC_URL + "/team-member/:teamID"}`} component={TeamDetails}/>
+                    <Route path={"/blog/:blogID"} component={BlogDetailsPage}/>
+                    <Route exact path={"/team"} component={Team}/>
+                    <Route path={"/team-member/:teamID"} component={TeamDetails}/>
 
-                    <Route exact path={`${process.env.PUBLIC_URL + "/about"}`} component={About}/>
-                    <Route exact path={`${process.env.PUBLIC_URL + "/contact"}`} component={Contact}/>
+                    <Route exact path={"/about"} component={About}/>
+                    <Route exact path={"/contact"} component={Contact}/>
                     
                     <Route exact component={Error404}/>
                 </Switch>
