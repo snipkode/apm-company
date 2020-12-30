@@ -15,7 +15,7 @@ function Footer() {
                         <div className="widget-item">
                             <div className="about-widget">
                                 <Link to={`${process.env.PUBLIC_URL + "/"}`}>
-                                    <img src={Logo} alt="Logo" width={'100%'}/>
+                                    <img src={Logo} alt="Logo" style={{maxWidth: "93.33%"}}/>
                                 </Link>
 
                                 <Text>
