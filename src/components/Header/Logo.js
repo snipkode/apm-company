@@ -5,7 +5,7 @@ class Logo extends Component {
     render() {
         return (
             <div className="logo-area">
-                <a href="/"><img src={logo} alt="Businex-Logo" /></a>
+                <a href="/"><img src={logo} alt="Businex-Logo" style={{maxWidth: 80, maxHeight: 80}} /></a>
             </div>
         );
     }

@@ -9,13 +9,13 @@ import Logo from '../../assets/img/logo-dark.png'
 function Footer() {
     return (
         <footer className="footer-area sp-bottom">
-            <div className="container">
+            <div className="container ">
                 <div className="row mtn-40">
                     <div className="col-lg-4 order-4 order-lg-0">
                         <div className="widget-item">
                             <div className="about-widget">
                                 <Link to={`${process.env.PUBLIC_URL + "/"}`}>
-                                    <img src={Logo} alt="Logo"/>
+                                    <img src={Logo} alt="Logo" width={'100%'}/>
                                 </Link>
 
                                 <Text>

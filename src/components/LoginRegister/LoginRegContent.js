@@ -6,7 +6,7 @@ const LoginRegister = () => {
         <Fragment>
             <div className="off-canvas-item">
                 <div className="log-in-content-wrap">
-                    <h2>Login</h2>
+                    <h2>Masuk Akun</h2>
                     <div className="login-form mtn-15">
                         <form action="#" method="post">
                             <div className="form-input-item">
@@ -42,7 +42,7 @@ const LoginRegister = () => {
                     }
                 </div>
                 <div className="copyright-content">
-                    <p> © Businex {new Date().getFullYear()} All Right Reserved.</p>
+                    <p> © PT. Arkana Putra Indonesia {new Date().getFullYear()} All Right Reserved.</p>
                 </div>
             </div>
         </Fragment>
