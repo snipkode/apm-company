@@ -1,0 +1,62 @@
+ {
+    "id": 2,
+    "name": "Sandy saputra",
+    "designation": "Software engineer",
+    "profilePic": "team/02.jpg",
+    "bio": "",
+    "address": "Jl gedawang permai 1 d 12 <br/> Semarang , Jawa tengah, Indonesia",
+    "phone": "081226241558",
+    "email": "sandyccloud3@gmail.com",
+  
+    "socials": {
+
+      "linkedin": "https://www.linkedin.com/in/sandy-saputra-861b491b5/",
+      "github":"https://github.com/sandysaputra67"
+   
+    },
+    "skills": [
+ 
+      {
+        "no": 3,
+        "title": "Front end Developer",
+        "percentage": 91
+      },
+      {
+        "no": 4,
+        "title": "Fullstack Developer",
+        "percentage": 85
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Front End developer",
+        "icon": "team/details/date-1.png",
+        "comment": "Pengembang website yang menggunakan baris kode HTML, CSS, dan JavaScript untuk menghasilkan website dengan tampilan yang menarik."
+      },
+      {
+        "no": 2,
+        "designation": "FullStack Developer",
+        "icon": "team/details/date-2.png",
+        "comment": "h seseorang yang nyaman bekerja atau merangkap tugas sebagai back end dan front end developer."
+      }
+     
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "Stmik provisi Semarang",
+        "degree": "BACHELOR IN INFORMATICS ENGINEERING",
+        "duration": "MAY 2015 - SEP 2019",
+        "comment": "I took courses with a focus on software engineering"
+      },
+      {
+        "no": 2,
+        "institute": "BOOTCAMP FULLSTACK  IN BANDUNG, West Java ",
+        
+        "duration": "MARCH 2020 - AUGUST 2020",
+        "comment": " Bootcamp focuses on developing web applications and applications."
+      }
+   
+    ]
+  },
