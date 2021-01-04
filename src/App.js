@@ -4,7 +4,7 @@ import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
 /*
 * @ All pages Import
 */
-
+import Admin from './admin/Admin';
 import Home from './pages/HomeTwo'
 import Service from './pages/Service'
 import ServiceDetails from "./pages/ServiceDetails";
@@ -24,6 +24,7 @@ const App = () => {
                 <Switch>
       
                     <Route exact path={'/'} component={Home}/>
+                    <Route exact path={'/admin'} component={Admin}/>
                     <Route exact path={'/services'} component={Service}/>
 
                     <Route path={'/service/:serviceID'} component={ServiceDetails}/>

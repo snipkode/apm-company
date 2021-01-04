@@ -10,7 +10,7 @@ const ContactPage = () => {
                     <div className="row">
                         <div className="col-lg-8">
                             <div className="contact-form-area contact-method">
-                                <h3>Kirimkan Pesan</h3>
+                                <h3>Kirim Pesan</h3>
                                 <From/>
                             </div>
                         </div>
@@ -20,7 +20,7 @@ const ContactPage = () => {
                                 <div className="contact-info-con">
                                     <h3>Info Kontak</h3>
                                     <ContactInfo
-                                        address="Jl. Banjarwaru RT 03/11, <br/> Desa Sindangbarang, Kecamatan Karangpucung. Kabupaten Cilacap <br/>+62821-2549-7764"
+                                        address="Jl. Banjarwaru RT 03/11, Desa Sindangbarang - Kabupaten Cilacap <br/>+62821-2549-7764"
                                     />
                                 </div>
                             </div>
