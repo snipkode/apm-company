@@ -1,10 +1,18 @@
 {
   "hosting": {
+<<<<<<< HEAD
     "site": "arkanaputra",
     "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",
+=======
+    "site" : "arkanaputra",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*"
+>>>>>>> master
       "**/node_modules/**"
     ],
     "rewrites": [
